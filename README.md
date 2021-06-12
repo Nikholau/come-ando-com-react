@@ -1,2 +1,2 @@
-# come-ando-com-react
+#starting-react
 começando react my app
